@@ -93,5 +93,3 @@ Inspect the actual image before presenting it. Reject and regenerate if any item
 ## FAILURE RESET
 
 When a result fails, identify the exact failed gate: background, spelling, theme drift, unauthorized motif, composition, typography, palette, or analog treatment. Preserve every valid user requirement and valid selected motif. Correct the failed rendering cause only. Do not ban otherwise appropriate imagery merely because the generator previously combined it badly. Rebuild the full brief, rerun the handoff gate, and regenerate. Never present a failed result.
-
-Test
